@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse("This is my application")
+    return HttpResponse("This is my uat application")
